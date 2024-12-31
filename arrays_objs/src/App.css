@@ -1,11 +1,14 @@
 .App {
   margin: 20px;
-  padding: 50px; 
+  padding: 40px; 
   text-align: center;
   color: #FF6500;
   background-color: #DEE5D4;
   border: 2px dashed black;
   border-radius: 50px;
+  width: 500px;
+  position: relative;
+  left: 350px;
 }
 
 
